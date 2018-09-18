@@ -44,9 +44,9 @@ permalink: /research/
 
 1. [A First Course in Quality Engineering: Integrating Statistical and Management Methods of Quality](https://www.crcpress.com/A-First-Course-in-Quality-Engineering-Integrating-Statistical-and-Management/Krishnamoorthi-Krishnamoorthi-Pennathur/p/book/9781498764209) (K.S. Krishnamoorthi, V.R. Krishnamoorthi and A. Pennathur), 3rd Edition, CRC Press, New York, NY, 2018. 
 
-2. [Human Work Productivity: A Global Perspectives] (https://www.crcpress.com/Human-Work-Productivity-A-Global-Perspective/Kumar-Mital-Pennathur/p/book/9781439874141) (Editors: S. Kumar, A. Mital and A. Pennathur), CRC Press (Taylor & Francis), New York, NY, 2014. (**Outstanding Academic Title Award Winner**)
+2. [Human Work Productivity: A Global Perspectives](https://www.crcpress.com/Human-Work-Productivity-A-Global-Perspective/Kumar-Mital-Pennathur/p/book/9781439874141) (Editors: S. Kumar, A. Mital and A. Pennathur), CRC Press (Taylor & Francis), New York, NY, 2014. (**Outstanding Academic Title Award Winner**)
 
-3. [Industrial Resource Utilization and Productivity: Understanding the Linkages] (http://www.momentumpress.net/books/industrial-resource-utilization-and-productivity) (Editors: A. Mital and A. Pennathur), Momentum Press, New Jersey: USA, August 2010.
+3. [Industrial Resource Utilization and Productivity: Understanding the Linkages](http://www.momentumpress.net/books/industrial-resource-utilization-and-productivity) (Editors: A. Mital and A. Pennathur), Momentum Press, New Jersey: USA, August 2010.
 
 ### B. Book Chapters
 
