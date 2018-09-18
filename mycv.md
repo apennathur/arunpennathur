@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-## Externally Funded Competitive Grants
+## Funded Competitive Grants
 
 **Total of $ 3,945,619 in 13 years of externally funded grants.**
 
