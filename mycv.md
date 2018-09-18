@@ -310,7 +310,7 @@ permalink: /research/
 
 ## Research Service Activities
 
-## Editorial Services
+### A. Editorial Services
 
 1. Honorary Editor-in-Chief, International Journal of Industrial Engineering - Theory, Applications and Practice, 2014-Present.
 
@@ -336,7 +336,7 @@ permalink: /research/
 
 12. Editor, Proceedings of the 6th Annual International Conference on Industrial Engineering – Theory, Applications and Practice, ISBN 0-9654599-69, November 2001.
 
-## Professional Conference Organization Activities
+### B. Professional Conference Organization Activities
 
 1. Vice-Chairman, Ergonomics in Manufacturing Session, SME AUTOFACT Conference, Detroit, Michigan, November 1997.
 
@@ -388,7 +388,7 @@ permalink: /research/
 
 25. Conference Chairman, ASEE Gulf Southwest Annual Conference, ASEE, El Paso, Texas 2012.
 
-## Reviewer for Research Journals, Books, Research Conferences, and Funding Agencies
+### C. Reviewer for Research Journals, Books, Research Conferences, and Funding Agencies
 
 1. Project Evaluator, FIPSE Project, Energy Track in the Environmental Science and Engineering program, University of Texas at El Paso, 2010-Present.
 
