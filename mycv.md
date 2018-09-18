@@ -100,47 +100,47 @@ permalink: /research/
 
 11. A. Pennathur, S. Sivasubramaniam {MS student} and L.R. Contreras. Functional limitations in Mexican American elderly. International Journal of Industrial Ergonomics Volume 31, 41-50, 2003.
 
-12. A. Pennathur, L.R. Contreras, K. Arcaute {MS student} and W. Dowling. Manual dexterity of older Mexican American adults: a cross-sectional pilot investigation. International Journal of Industrial Ergonomics Volume 32, 419-443, 2003. [google scholar cites: 1]
+12. A. Pennathur, L.R. Contreras, K. Arcaute {MS student} and W. Dowling. Manual dexterity of older Mexican American adults: a cross-sectional pilot investigation. International Journal of Industrial Ergonomics Volume 32, 419-443, 2003.
 
-13. A. Pennathur and A. Mital. Worker mobility and training in advanced manufacturing. International Journal of Industrial Ergonomics Volume 32, 363-388, 2003. [google scholar cites: 3]
+13. A. Pennathur and A. Mital. Worker mobility and training in advanced manufacturing. International Journal of Industrial Ergonomics Volume 32, 363-388, 2003.
 
-14. A. Mital and A. Pennathur. Getting the Most Out of AMT-Based Systems: Recognizing and Managing Technology Limitations. International Journal of Manufacturing Technology and Management Volume 4, Nos. 1 and 2, p96-118, 2002. [google scholar cites: 5]
+14. A. Mital and A. Pennathur. Getting the Most Out of AMT-Based Systems: Recognizing and Managing Technology Limitations. International Journal of Manufacturing Technology and Management Volume 4, Nos. 1 and 2, p96-118, 2002.
 
-15. A. Mital and A. Pennathur. Getting the Most Out of AMT-based Systems: Recognizing and Managing Human Limitations. International Journal of Manufacturing Technology and Management Volume 4, Nos. 1 and 2, p119-133, 2002. [google scholar cites: 3]
+15. A. Mital and A. Pennathur. Getting the Most Out of AMT-based Systems: Recognizing and Managing Human Limitations. International Journal of Manufacturing Technology and Management Volume 4, Nos. 1 and 2, p119-133, 2002.
 
-16. A. Pennathur, A. Mital, and L. R. Contreras, Performance Reduction in Finger Amputees when Reaching and Operating Common Control Devices: A Pilot Experimental Investigation Using a Simulated Finger Disability. Journal of Occupational Rehabilitation Volume 11, Number 4, p281-290, December 2001. [google scholar cites: 1]
+16. A. Pennathur, A. Mital, and L. R. Contreras, Performance Reduction in Finger Amputees when Reaching and Operating Common Control Devices: A Pilot Experimental Investigation Using a Simulated Finger Disability. Journal of Occupational Rehabilitation Volume 11, Number 4, p281-290, December 2001.
 
-17. M. Govindaraju, A. Pennathur, and A. Mital. Quality Improvement in Manufacturing Through Human Performance Enhancement. Journal of Integrated Manufacturing Systems Volume 12, Number 5, p360-367, 2001. [google scholar cites: 14]
+17. M. Govindaraju, A. Pennathur, and A. Mital. Quality Improvement in Manufacturing Through Human Performance Enhancement. Journal of Integrated Manufacturing Systems Volume 12, Number 5, p360-367, 2001.
 
-18. W-C. Chiang, A. Pennathur, and A. Mital. Design and Manufacturing Consumer Products for Functionality: A Literature Review of Current Function Definitions and Design Support Tools. Journal of Integrated Manufacturing Systems Volume 12, Number 6, p430-448, 2001. [google scholar cites: 7] 
+18. W-C. Chiang, A. Pennathur, and A. Mital. Design and Manufacturing Consumer Products for Functionality: A Literature Review of Current Function Definitions and Design Support Tools. Journal of Integrated Manufacturing Systems Volume 12, Number 6, p430-448, 2001.
 
 19. A. Kansal, A. Mital, A. Pennathur, and K. Gokli. Undertaking Manufacturing Productivity Improvement Systematically Using Assistive Devices: A Case Study. International Journal of Industrial Engineering – Theory, Applications and Practice Volume 7, Number 3, p242-254, 2000. 
 
 20. E. Martinez and G. Fierro {Undergraduate Design Mentor: A. Pennathur}. Design and Development of Anthropometric Profiles for the Elderly. Journal of Industrial Engineering Design Volume 3, Number 3, p4-6, Fall 2000. 
 
-21. A. Pennathur, A. Mital, R.L. Huston, D.F. Thompson, G. Markle, M.A. Pitman, R.R. Bishu, L.L. Crumpton, S. Deivanayagam, J.E. Fernandez, D.B. Kaber, M. McElwee, M. L. McMulkin, V. N. Rajan, P.S. Ray, and D.R. Sule. A Framework for Training Workers in Contemporary Manufacturing Environments. International Journal of Computer Integrated Manufacturing Volume 12, Number 4, p291-310, 1999. [google scholar cites: 9]
+21. A. Pennathur, A. Mital, R.L. Huston, D.F. Thompson, G. Markle, M.A. Pitman, R.R. Bishu, L.L. Crumpton, S. Deivanayagam, J.E. Fernandez, D.B. Kaber, M. McElwee, M. L. McMulkin, V. N. Rajan, P.S. Ray, and D.R. Sule. A Framework for Training Workers in Contemporary Manufacturing Environments. International Journal of Computer Integrated Manufacturing Volume 12, Number 4, p291-310, 1999.
 
-22. A. Mital, A. Pennathur, R.L. Huston, D.F. Thompson, M.A. Pitman, G. Markle, P.S. Ray, D.R. Sule, L.L. Crumpton, D.B. Kaber, R.R. Bishu, K.P. Rajurkar, S. Deivanayagam, V.N. Rajan, J.E. Fernandez, and M.L. McMulkin. The Need for Worker Training in Advanced Manufacturing Technology (AMT) Environments. International Journal of Industrial Ergonomics Volume 24, p173-184, 1999. [google scholar cites: 17]
+22. A. Mital, A. Pennathur, R.L. Huston, D.F. Thompson, M.A. Pitman, G. Markle, P.S. Ray, D.R. Sule, L.L. Crumpton, D.B. Kaber, R.R. Bishu, K.P. Rajurkar, S. Deivanayagam, V.N. Rajan, J.E. Fernandez, and M.L. McMulkin. The Need for Worker Training in Advanced Manufacturing Technology (AMT) Environments. International Journal of Industrial Ergonomics Volume 24, p173-184, 1999.
 
-23. A. Mital, and A. Pennathur. Musculoskeletal Overexertion Injuries in the United States: Mitigating the Problem through Ergonomics and Engineering Interventions. Journal of Occupational Rehabilitation Volume 9, Number 2, p115-149, 1999. [google scholar cites: 2]
+23. A. Mital, and A. Pennathur. Musculoskeletal Overexertion Injuries in the United States: Mitigating the Problem through Ergonomics and Engineering Interventions. Journal of Occupational Rehabilitation Volume 9, Number 2, p115-149, 1999.
 
-24. A. Mital, A. Pennathur, and A. Kansal. Nonfatal Occupational Injuries in the United States: Part I – Overall Trends and Data Summaries. International Journal of Industrial Ergonomics Volume 25, p109-129, 1999. [google scholar cites: 20]
+24. A. Mital, A. Pennathur, and A. Kansal. Nonfatal Occupational Injuries in the United States: Part I – Overall Trends and Data Summaries. International Journal of Industrial Ergonomics Volume 25, p109-129, 1999.
 
-25. A. Mital, A. Pennathur, and A. Kansal. Nonfatal Occupational Injuries in the United States: Part II – Back Injuries. International Journal of Industrial Ergonomics Volume 25, p131-150, 1999. [google scholar cites: 5]
+25. A. Mital, A. Pennathur, and A. Kansal. Nonfatal Occupational Injuries in the United States: Part II – Back Injuries. International Journal of Industrial Ergonomics Volume 25, p131-150, 1999.
 
-26. A. Mital, A. Pennathur, and A. Kansal. Nonfatal Occupational Injuries in the United States: Part III – Upper Extremity Injuries. International Journal of Industrial Ergonomics Volume 25, p151-169, 1999. [google scholar cites: 8]
+26. A. Mital, A. Pennathur, and A. Kansal. Nonfatal Occupational Injuries in the United States: Part III – Upper Extremity Injuries. International Journal of Industrial Ergonomics Volume 25, p151-169, 1999.
 
-27. A. Pennathur and A. Mital. A Comparison of Functional Capabilities of Individuals with and Without Finger Disabilities: An Exploratory Study. Journal of Occupational Rehabilitation Volume 9, Number 4, p227-245, 1999. [google scholar cites: 6]
+27. A. Pennathur and A. Mital. A Comparison of Functional Capabilities of Individuals with and Without Finger Disabilities: An Exploratory Study. Journal of Occupational Rehabilitation Volume 9, Number 4, p227-245, 1999.
 
 28. A. Mital and A. Pennathur. Human Centered Manufacturing: A Necessity for Enhancing Productivity and Competitiveness. Society of Automotive Engineers (SAE) Technical Paper Series Technical Paper No. 1999-01-1605, 1999. 
 
 29. A. Mital and A. Pennathur. Ergonomics in Manufacturing. SME Technical Paper Series, Technical Paper No. MM98-121, pp. MM98-121-1-24, 1998. 
 
-30. A. Mital and A. Pennathur. The Necessity of Training Manufacturing Engineers in Ergonomics. International Journal for Manufacturing Science & Production, Volume 1, Number 1, p59-65, 1997. [google scholar cites: 1]
+30. A. Mital and A. Pennathur. The Necessity of Training Manufacturing Engineers in Ergonomics. International Journal for Manufacturing Science & Production, Volume 1, Number 1, p59-65, 1997.
 
 31. A. Mital, S.J. Scheer, J.M. Plunkett, A. Pennathur and M. Govindaraju. Enhancing Physical Fitness Levels of Paraplegics and Lower Extremity Amputees: A Critical Need. Critical Reviews in Physical and Rehabilitation Medicine Volume 8, Number 3, p221-234, 1996. 
 
-32. A. Mital, R.W. Neimeier and A. Pennathur. A Model for Transferring Technology from the National Institute of Occupational Safety and Health (NIOSH) to Small Industries. International Journal of Industrial Engineering – Theory, Applications & Practice Volume 3, Number 3, p194-203, 1996. [google scholar cites: 3]
+32. A. Mital, R.W. Neimeier and A. Pennathur. A Model for Transferring Technology from the National Institute of Occupational Safety and Health (NIOSH) to Small Industries. International Journal of Industrial Engineering – Theory, Applications & Practice Volume 3, Number 3, p194-203, 1996.
 
 ### D. Technical Reports and Trade Publications
 
@@ -190,7 +190,7 @@ permalink: /research/
 
 18. J. V. Mattaparthy, M. A. Garcia, and A. Pennathur. Usability Evaluation of a shared collaborative work portal for engineering education. Paper in Proceedings of 2007 IERC Annual Conference, Nashville, TN. 
 
-19. L. Everett, A. Pennathur, V. Jones, K. Kephart, and E. Villa. Creating learning opportunities: Building active learning problems to create conceptual conflict for enduring understanding, In Proceedings of the Frontiers in Education (FIE) Conference, Milwaukee, Wisconsin, October 2007. [google scholar cites: 1]
+19. L. Everett, A. Pennathur, V. Jones, K. Kephart, and E. Villa. Creating learning opportunities: Building active learning problems to create conceptual conflict for enduring understanding, In Proceedings of the Frontiers in Education (FIE) Conference, Milwaukee, Wisconsin, October 2007.
 
 20. L. Everett, A. Pennathur, E. Villa, The effect technology and a structured design problem has on student attitudes about theory in a dynamics class. 2006 ASEE Annual Conference, Paper No. 2006-780, Chicago, IL, 2006. 
 
@@ -202,7 +202,7 @@ permalink: /research/
 
 24. A. Pennathur, L.R. Contreras and K.S. Premkumar. Manual Dexterity of Older Adults, In Proceedings of the 2004 Annual Industrial Engineering Research Conference (IERC), Institute of Industrial Engineers, Houston, Texas, May 15-19, 2004.
 
-25. L.R. Contreras, C. Modi and A. Pennathur. Integrating Simulation Modeling and Equipment Condition Diagnostic for Predictive Maintenance Strategies – A Case Study, In Proceedings of the Winter Simulation Conference, p1289-1296, San Diego, CA, December 2002. [google scholar cites: 2]
+25. L.R. Contreras, C. Modi and A. Pennathur. Integrating Simulation Modeling and Equipment Condition Diagnostic for Predictive Maintenance Strategies – A Case Study, In Proceedings of the Winter Simulation Conference, p1289-1296, San Diego, CA, December 2002.
 
 26. L.R. Contreras, L. R., A. Pennathur, M. Ortega, T. Salcido, and N. Ahmed. Redesigning Prescription Medication Labeling for An Anglo-Hispanic Elderly Population Using Human Factors, In Proceedings of the Human Factors and Ergonomics Society 45th Annual Meeting, Pages 860-864, 2001.
 
@@ -214,11 +214,11 @@ permalink: /research/
 
 30. A. Mital, U. Wright and A. Pennathur. Aging and Performance in Manual Carrying Activities: An Experimental Investigation, In Proceedings of the Joint Meeting of the 14th Triennial Congress of the International Ergonomics Association and the 44th Annual Meeting of the Human Factors and Ergonomics Society, On CD-ROM, San Diego, CA, 2000. 
 
-31. M. Vasu, A. Mital and A. Pennathur. Evaluation of the Validity of Anthropometric Design Assumptions, In Proceedings of the Joint Meeting of the 14th Triennial Congress of the International Ergonomics Association and the 44th Annual Meeting of the Human Factors and Ergonomics Society, On CD-ROM, San Diego, CA, 2000. [google scholar cites: 7]
+31. M. Vasu, A. Mital and A. Pennathur. Evaluation of the Validity of Anthropometric Design Assumptions, In Proceedings of the Joint Meeting of the 14th Triennial Congress of the International Ergonomics Association and the 44th Annual Meeting of the Human Factors and Ergonomics Society, On CD-ROM, San Diego, CA, 2000.
 
 32. A. Pennathur, A. Mital and L.R. Contreras. Do Finger Amputations Reduce Performance When Reaching and Operating Control Devices? In Proceedings of the 14th Triennial Congress of the International Ergonomics Association and the 44th Annual Meeting of the Human Factors and Ergonomics Society, On CD-ROM, San Diego, CA, 2000. 
 
-33. E. Lopez, A. Pennathur and L.R. Contreras. A Simulation Model-Based Approach for Predictive Maintenance of Conveying Equipment, In Proceedings of the INFORMS 2000 Conference, Invited Paper for Session on Integration of Material Handling with Manufacturing Design, San Antonio, TX, 2000. [google scholar cites: 2]
+33. E. Lopez, A. Pennathur and L.R. Contreras. A Simulation Model-Based Approach for Predictive Maintenance of Conveying Equipment, In Proceedings of the INFORMS 2000 Conference, Invited Paper for Session on Integration of Material Handling with Manufacturing Design, San Antonio, TX, 2000.
 
 34. A. Fuentes, A. Pennathur and L.R. Contreras. Maintenance: A Necessary Evil in Highly Constrained Manufacturing Environments? In Proceedings of the XIII Simposium de Ingenierria Industrial, Instituto Tecnologico de cd. Juarez, Invited Paper, Page E-1, September 2000. 
 

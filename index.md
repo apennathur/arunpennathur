@@ -10,8 +10,8 @@ Here's my most recent book co-authored with Drs. K.S. Krishnamoorthi and V.R. Kr
 
 Here are two other books I've helped edit:
 
-[Human Work Productivity: A Global Perspectives] (https://www.crcpress.com/Human-Work-Productivity-A-Global-Perspective/Kumar-Mital-Pennathur/p/book/9781439874141) (Editors: S. Kumar, A. Mital and A. Pennathur), CRC Press (Taylor & Francis), New York, NY, 2014. (**Outstanding Academic Title Award Winner**)
+[Human Work Productivity: A Global Perspectives](https://www.crcpress.com/Human-Work-Productivity-A-Global-Perspective/Kumar-Mital-Pennathur/p/book/9781439874141)(Editors: S. Kumar, A. Mital and A. Pennathur), CRC Press (Taylor & Francis), New York, NY, 2014. (**Outstanding Academic Title Award Winner from CRC Press**)
 
-[Industrial Resource Utilization and Productivity: Understanding the Linkages] (http://www.momentumpress.net/books/industrial-resource-utilization-and-productivity) (Editors: A. Mital and A. Pennathur), Momentum Press, New Jersey: USA, August 2010.
+[Industrial Resource Utilization and Productivity: Understanding the Linkages](http://www.momentumpress.net/books/industrial-resource-utilization-and-productivity)(Editors: A. Mital and A. Pennathur), Momentum Press, New Jersey: USA, August 2010.
 
 Please feel free to contact me if you are interested in learning more about my work.
