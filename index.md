@@ -4,5 +4,5 @@
 
 layout: home
 ---
-#### Welcome to my page. This is a minimal, text-only page I maintain of my academic work. Please feel free to contact me if you are interested in learning more about my work. 
+#### I am an Associate Professor of Instruction in the Industrial and Systems Engineering Department at the University of Iowa. This is a minimal, text-only page I maintain of my academic work. Please feel free to contact me if you are interested in learning more about my work. 
 
