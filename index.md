@@ -4,5 +4,5 @@
 
 layout: home
 ---
-#### Welcome to my page. This is a minimal, text-only version of my academic work. Please feel free to contact me if you are interested in my work. 
+#### Welcome to my page. This is a minimal, text-only page I maintain of my academic work. Please feel free to contact me if you are interested in learning more about my work. 
 

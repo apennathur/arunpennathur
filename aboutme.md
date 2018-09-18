@@ -1,7 +1,11 @@
 ---
 layout: page
-title: About
-permalink: /aboutme/
+title: Teaching
+permalink: /teaching/
 ---
 
-Thank you for your interest in my work. I am an Associate Professor of Instruction in Industrial and Systems Engineering at the University of Iowa. I teach Research Methods in Human Factors Engineering, Engineering Problem Solving, Ergonomics, and Discrete Event Simulation at the University of Iowa.  
+At the University of Iowa, I teach Research Methods in Human Factors Engineering, Engineering Problem Solving, Ergonomics, and Discrete Event Simulation. Please see the table below for a comprehensive list of the classes I have taught at University of Iowa and at the University of Texas at El Paso.
+
+
+
+
