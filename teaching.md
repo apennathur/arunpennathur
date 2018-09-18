@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-At the University of Iowa, I presently teach Research Methods in Human Factors Engineering, Engineering Problem Solving, Ergonomics, and Discrete Event Simulation. Please see the table below for a comprehensive list of the classes I have taught in the past.
+At the University of Iowa, I presently teach Research Methods in Human Factors Engineering, Engineering Problem Solving, Ergonomics, and Digital Systems Simulation. Please see the table below for a comprehensive list of the classes I have taught in the past.
 
 | Course                            | UG/Grad | Cr. Hrs. | Where  | When                            |
 | --------------------------------- | ------- | -------- | ------ | ------------------------------- |
