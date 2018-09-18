@@ -8,13 +8,13 @@ permalink: /research/
 
 **Total of $ 3,945,619 in 13 years of externally funded grants.**
 
-1. *Principal Investigator*, Understanding Planning and Execution Expertise Among Engineering Faculty: A Field Initiated, Practice Based Framework and Model],” __National Science Foundation__, 08/01/09 to 07/31/12, **$ 499,758**, Funded and Delivered.
+1. *Principal Investigator*, Understanding Planning and Execution Expertise Among Engineering Faculty: A Field Initiated, Practice Based Framework and Model,” __National Science Foundation__, 08/01/09 to 07/31/12, **$ 499,758**, Funded and Delivered.
 
-2. *Principal Investigator*, Cultivating a Culture of Technical Success and Leadership Excellence Among Hispanic Engineering Students: A Transformative Recruitment Model for Attracting High Achievers],” __National Science Foundation__, 09/01/09 to 08/31/14, **$ 579,697**, Funded and Delivered. 
+2. *Principal Investigator*, Cultivating a Culture of Technical Success and Leadership Excellence Among Hispanic Engineering Students: A Transformative Recruitment Model for Attracting High Achievers,” __National Science Foundation__, 09/01/09 to 08/31/14, **$ 579,697**, Funded and Delivered. 
 
-3. *Co-Principal Investigator (PI: D. Natalicio)*, I3: A Cyberinfrastructure and Communication-Based Model to Foster Innovation that Broadens Participation in STEM Fields through Institutional Integration],” __National Science Foundation__, 09/15/10 to 08/31/13, **$ 713,441**, Funded and Delivered. 
+3. *Co-Principal Investigator (PI: D. Natalicio)*, I3: A Cyberinfrastructure and Communication-Based Model to Foster Innovation that Broadens Participation in STEM Fields through Institutional Integration,” __National Science Foundation__, 09/15/10 to 08/31/13, **$ 713,441**, Funded and Delivered. 
 
-4. *Co-Principal Investigator (PI: L. Everett)*, Cultivating Authentic Discourse for the 2020 Engineer],” __National Science Foundation__, 09/15/06 to 08/15/10, **$ 500,000**, Funded and Delivered.
+4. *Co-Principal Investigator (PI: L. Everett)*, Cultivating Authentic Discourse for the 2020 Engineer,” __National Science Foundation__, 09/15/06 to 08/15/10, **$ 500,000**, Funded and Delivered.
 
 5. *Principal Investigator*, “Closing Health Disparities in Low-Resource Settings: Increasing Community Health Worker Effectiveness Through Work Systems Analysis,” __Anita Mochen Loya Innovation Fund__, University of Texas at El Paso, July 2011-December 2011, **$ 36,000**, Funded and Delivered.
 
@@ -41,3 +41,5 @@ permalink: /research/
 16. *Co-Principal Investigator (PI: A. Fuentes)*, “Condition-Based Monitoring of Industrial Conveying Equipment for Predictive Maintenance,” **Savane International Corporation,** January 2000-October 2000, __$ 16,500__, Funded and Delivered.
 
 ## Publications
+
+
