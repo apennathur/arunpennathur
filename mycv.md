@@ -6,8 +6,6 @@ permalink: /research/
 
 ## Funded Competitive Grants
 
-**Total of $ 3,945,619 in 13 years of externally funded grants.**
-
 1. *Principal Investigator*, Understanding Planning and Execution Expertise Among Engineering Faculty: A Field Initiated, Practice Based Framework and Model,” __National Science Foundation__, 08/01/09 to 07/31/12, **$ 499,758**, Funded and Delivered.
 
 2. *Principal Investigator*, Cultivating a Culture of Technical Success and Leadership Excellence Among Hispanic Engineering Students: A Transformative Recruitment Model for Attracting High Achievers,” __National Science Foundation__, 09/01/09 to 08/31/14, **$ 579,697**, Funded and Delivered. 
