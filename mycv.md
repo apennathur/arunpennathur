@@ -44,7 +44,7 @@ permalink: /research/
 
 ### A. Books
 
-1. A First Course in Quality Engineering: Integrating Statistical and Management Methods of Quality (K.S. Krishnamoorthi, V.R. Krishnamoorthi and A. Pennathur), 3rd Edition, CRC Press, New York, NY, 2018. 
+1. [A First Course in Quality Engineering: Integrating Statistical and Management Methods of Quality] (https://www.crcpress.com/A-First-Course-in-Quality-Engineering-Integrating-Statistical-and-Management/Krishnamoorthi-Krishnamoorthi-Pennathur/p/book/9781498764209)(K.S. Krishnamoorthi, V.R. Krishnamoorthi and A. Pennathur), 3rd Edition, CRC Press, New York, NY, 2018. 
 
 2. Human Work Productivity: A Global Perspectives (Editors: S. Kumar, A. Mital and A. Pennathur), CRC Press (Taylor & Francis), New York, NY, 2014.
 
