@@ -8,7 +8,9 @@ layout: home
 
 Here's **my most recent book** co-authored with Drs. K.S. Krishnamoorthi and V.R. Krishnamoorthi: [A First Course in Quality Engineering: Integrating Statistical and Management Methods of Quality](https://www.crcpress.com/A-First-Course-in-Quality-Engineering-Integrating-Statistical-and-Management/Krishnamoorthi-Krishnamoorthi-Pennathur/p/book/9781498764209) (K.S. Krishnamoorthi, V.R. Krishnamoorthi and A. Pennathur), 3rd Edition, CRC Press, New York, NY, **2018.**
 
-Here are two other books I've helped edit:
+Here are three other books I've helped edit:
+
+[Resources Utilization and Productivity Enhancement Case Studies](http://www.momentumpress.net/books/resources-utilization-and-productivity-enhancement-case-studies)(Editors: A. Mital and A. Pennathur), Momentum Press, New Jersey: USA, 2015.
 
 [Human Work Productivity: A Global Perspective](https://www.crcpress.com/Human-Work-Productivity-A-Global-Perspective/Kumar-Mital-Pennathur/p/book/9781439874141) (Editors: S. Kumar, A. Mital and A. Pennathur), CRC Press (Taylor & Francis), New York, NY, 2014. (*Outstanding Academic Title Award Winner from CRC Press*)
 
