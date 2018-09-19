@@ -76,7 +76,7 @@ permalink: /research/
 
 ### C. Journal Papers (Published)
 
-1. Ruiz-Torres, A. J., J. Zhang, J., E. Zapata, A. Pennathur, R. Rhodes, C. McCleskey, and M. Cowen, A Reliability, Maintainability, and Safety Model to Support the Assessment of Space Vehicles. International Journal of Quality and Reliability Management. In Print, 2009.
+1. Ruiz-Torres, A. J., J. Zhang, J., E. Zapata, A. Pennathur, R. Rhodes, C. McCleskey, and M. Cowen, A Reliability, Maintainability, and Safety Model to Support the Assessment of Space Vehicles. International Journal of Quality and Reliability Management, 27(4), 486-504, 2010.
 
 2. Sobieraj, J.A., Harris, M. D., Pennathur, A. and Gutierrez, R.S. Modeling Hospital Response to Mild and Severe Influenza Pandemic Scenarios Under Normal and Expanded Capacities. Military Medicine, Vol 172, May 2007.
 
