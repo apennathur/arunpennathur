@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
-I've been teaching a variety of industrial and manufacturing engineering courses for the last 20 years. Below is a list of courses I have developed and taught in the last 20 years.
+I've been teaching a variety of industrial and manufacturing engineering courses for the last 20 years. Below is a list of courses I have developed and taught in the last 2 decades. I've also mentored many graduate students, and continue to mentor numerous undergraduate engineering students.
 
 | Course                                            | UG/Grad | Cr. Hrs. |
 | ------------------------------------------------- | ------- | -------- |
