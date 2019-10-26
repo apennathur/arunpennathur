@@ -10,7 +10,7 @@ Here's **my most recent book** co-authored with Drs. K.S. Krishnamoorthi and V.R
 
 Here are three other books I've helped edit:
 
-    [Resources Utilization and Productivity Enhancement Case Studies](http://www.momentumpress.net/books/resources-utilization-and-productivity-enhancement-case-studies) (Editors: A. Mital and A. Pennathur), Momentum Press, New Jersey: USA, 2015.
+[Resources Utilization and Productivity Enhancement Case Studies](http://www.momentumpress.net/books/resources-utilization-and-productivity-enhancement-case-studies) (Editors: A. Mital and A. Pennathur), Momentum Press, New Jersey: USA, 2015.
 
 [Human Work Productivity: A Global Perspective](https://www.crcpress.com/Human-Work-Productivity-A-Global-Perspective/Kumar-Mital-Pennathur/p/book/9781439874141) (Editors: S. Kumar, A. Mital and A. Pennathur), CRC Press (Taylor & Francis), New York, NY, 2014. (*Outstanding Academic Title Award Winner from CRC Press*)
 
