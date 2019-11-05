@@ -156,7 +156,9 @@ permalink: /research/
 
 ### E. Conference Papers
 
-1. A. Pennathur, L. Everett and L.R. Contreras, Access and Excellence in Educating Engineers: Never the Twain Shall Meet?, Paper Accepted for 2010 ASEE Annual Conference, Lexington, KY, 2010.
+1. A. Pennathur, P. Pennathur and N. Bowman, Minority engineering student success in predominantly white institutions: Sociotechnical analyses, Paper in Review for 2020 IISE Annual Conference, New Orleans, LA, 2019.
+
+2. A. Pennathur, L. Everett and L.R. Contreras, Access and Excellence in Educating Engineers: Never the Twain Shall Meet?, Paper Accepted for 2010 ASEE Annual Conference, Lexington, KY, 2010.
 
 2. A. Pennathur, L. Everett, S. Riccillo and L. Diaz, Sharing Successful Strategies for Engineering Teaching: A Template for a Virtual Strategy Generator, Paper Accepted for 2010 ASEE Annual Conference, Lexington, KY, 2010.
 
