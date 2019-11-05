@@ -16,6 +16,10 @@ Here are three other books I've helped edit:
 
 [Industrial Resource Utilization and Productivity: Understanding the Linkages](http://www.momentumpress.net/books/industrial-resource-utilization-and-productivity) (Editors: A. Mital and A. Pennathur), Momentum Press, New Jersey: USA, August 2010.
 
+My recent working paper is:
+
+A. Pennathur, P. Pennathur and N. Bowman, **Minority engineering student success in predominantly white institutions: Sociotechnical analyses**, Paper in Review for *2020 IISE Annual Conference*, New Orleans, LA, 2019. 
+
 I am now an Honorary Editor-in-Chief in the International Journal of Industrial Engineering - Theory, Applications and Practice (IJIETAP) which I edited from 2000 to 2014. As the Editor-in-Chief for IJIETAP for 14 years, I grew the journal to attract a worldwide audience, and migrated the journal from a print to an online publication. I have also served on the editorial boards of many research journals, and have helped organize research conferences (you can find details in my research page).
 
 I am a member of the American Society for Engineering Education (ASEE) and the Institute for Industrial and Systems Engineers. 
