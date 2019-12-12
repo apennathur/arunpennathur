@@ -16,11 +16,11 @@ Here are three other books I've helped edit:
 
 [Industrial Resource Utilization and Productivity: Understanding the Linkages](http://www.momentumpress.net/books/industrial-resource-utilization-and-productivity) (Editors: A. Mital and A. Pennathur), Momentum Press, New Jersey: USA, August 2010.
 
-My recent working papers are:
+My recent papers are:
 
-A. Pennathur, P. Pennathur and J. Tsou, **Integrating normative ethical theories for macro ethics in HF research**, Paper in Review for *2020 IISE Annual Conference*, New Orleans, LA, 2019.
+A. Pennathur, P. Pennathur and J. Tsou, **Integrating normative ethical theories for macro ethics in HF research**, *2020 IISE Annual Conference*, New Orleans, LA, Paper Accepted December 2019.
 
-A. Pennathur, P. Pennathur and N. Bowman, **Minority engineering student success in predominantly white institutions: Sociotechnical analyses**, Paper in Review for *2020 IISE Annual Conference*, New Orleans, LA, 2019. 
+A. Pennathur, P. Pennathur and N. Bowman, **Minority engineering student success in predominantly white institutions: Sociotechnical analyses**, *2020 IISE Annual Conference*, New Orleans, LA, Paper Accepted December 2019. 
 
 
 
