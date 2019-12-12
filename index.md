@@ -30,4 +30,4 @@ I am a member of the American Society for Engineering Education (ASEE) and the I
 
 Please feel free to contact me if you are interested in learning more about my work.
 
-**Updated October 2019**
+**Updated December 2019**
