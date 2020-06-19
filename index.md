@@ -28,7 +28,7 @@ I am now an Honorary Editor-in-Chief in the International Journal of Industrial 
 
 I am a member of the American Society for Engineering Education (ASEE), the Institute for Industrial and Systems Engineers, and the Human Factors and Ergonomics Society. 
 
-I am also a member of the leadership team and the webmaster for the North Midwest Section of the ASEE. 
+I am also a member of the leadership team and the webmaster for the North Midwest Section of the ASEE (http://nms.asee.org)
 
 Please feel free to contact me if you are interested in learning more about my work.
 
