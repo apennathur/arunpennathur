@@ -4,7 +4,6 @@
 
 layout: home
 ---
-![Test](/Users/arun/Documents/GitHub/arunpennathur/_site/assets/images/test.jpg)
 
 #### I am an Associate Professor of Instruction in the Industrial and Systems Engineering Department at the University of Iowa. I have a doctoral degree in industrial engineering from the University of Cincinnati, a Master of Science degree in industrial engineering from Bradley University, and a Bachelor of Engineering degree in mechanical engineering from the University of Madras, India. My research and teaching specializations are in human factors engineering and ergonomics. 
 
